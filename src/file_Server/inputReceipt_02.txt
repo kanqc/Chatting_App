@@ -1,0 +1,30 @@
+SP01
+Sản Phẩm 1
+LSP01
+25000
+12
+Empty.jpg
+SP02
+TenSP
+LSP02
+123045
+12
+Empty.jpg
+SP08
+TenSP
+LSP01
+123045
+12
+Empty.jpg
+SP01
+Sản Phẩm 1
+LSP01
+25000
+12
+Empty.jpg
+SP01
+Sản Phẩm 1
+LSP02
+25000
+12
+Empty.jpg
